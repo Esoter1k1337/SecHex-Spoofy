@@ -6,9 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecHex-GUI", "SecHex-GUI\SecHex-GUI.csproj", "{354CC656-AADF-4AA1-A1F3-095D6BE50C3E}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+	
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{354CC656-AADF-4AA1-A1F3-095D6BE50C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
