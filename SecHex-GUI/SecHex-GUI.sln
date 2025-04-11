@@ -3,5 +3,4 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecHex-GUI", "SecHex-GUI\SecHex-GUI.csproj", "{354CC656-AADF-4AA1-A1F3-095D6BE50C3E}"
-EndProject
+
