@@ -8,21 +8,7 @@
           <xs:complexType>
             <xs:all>
               <xs:element minOccurs="0" maxOccurs="1" name="ExcludeAssemblies" type="xs:string">
-                <xs:annotation>
-                  <xs:documentation>A list of assembly names to exclude from the default action of "embed all Copy Local references", delimited with line breaks</xs:documentation>
-                </xs:annotation>
-              </xs:element>
-              <xs:element minOccurs="0" maxOccurs="1" name="IncludeAssemblies" type="xs:string">
-                <xs:annotation>
-                  <xs:documentation>A list of assembly names to include from the default action of "embed all Copy Local references", delimited with line breaks.</xs:documentation>
-                </xs:annotation>
-              </xs:element>
-              <xs:element minOccurs="0" maxOccurs="1" name="ExcludeRuntimeAssemblies" type="xs:string">
-                <xs:annotation>
-                  <xs:documentation>A list of runtime assembly names to exclude from the default action of "embed all Copy Local references", delimited with line breaks</xs:documentation>
-                </xs:annotation>
-              </xs:element>
-              <xs:element minOccurs="0" maxOccurs="1" name="IncludeRuntimeAssemblies" type="xs:string">
+                <xs:annotation> name="IncludeRuntimeAssemblies" type="xs:string">
                 <xs:annotation>
                   <xs:documentation>A list of runtime assembly names to include from the default action of "embed all Copy Local references", delimited with line breaks.</xs:documentation>
                 </xs:annotation>
