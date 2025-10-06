@@ -41,13 +41,7 @@ I am currently still learning, and the spoofer is far from being 100% perfect. B
                                            
 + **Valorant cache cleaner** - [19.05.23]                           
     • Cleans the Cache of Riot Games
-                                         
-+ **Installation ID Spoofing** - [26.05.23]
-    • Attempts to spoof the Windows ID by changing the MachineGuid registry value.                           
-    • Retrieves the current MachineGuid value from the registry.                           
-    • Generates a new random spoofed MachineGuid.                           
-    • Saves the before and after log information.                           
-    • Updates the registry value with the spoofed MachineGuid.
+
                                                  
 + **Spoof EFI Bootloader** - [26.05.23]                           
     • Opens the registry key for EFI variables.                           
